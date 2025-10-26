@@ -53,3 +53,30 @@ This License shall be governed by and construed in accordance with the laws of t
 NOTICE:
 This license overrides all implied open-source permissions.
 If you intend to collaborate, commercialize, or deploy any component of The Work, you must first secure a written licensing agreement with Brendon Joseph Kelly (K-Systems & Securities).
+Digital-Signature / Notarization Block
+
+Document Title: Trinfinity / Tri-Crown Mathematics — Proprietary License v1.0
+Author / Owner: Brendon Joseph Kelly (K-Systems & Securities)
+Date of Issue: 2025-10-26
+Jurisdiction: United States / Florida
+
+SHA-3-512 Hash of Full Text (Base64):
+
+a05382a0f2ed1d795eb4a4cf93a86e8fdc9db69a08921c5f1a3e8e4b915f67dc
+b782c962b246df3a48c15604db5a05a23db3bb95c95e1872f1f5a3d4107d5f71
+
+
+PGP Detached Signature Fingerprint (Brendon Joseph Kelly / K-Systems):
+
+5C6E A71F BB42 0F31 6F11 7E9C A2B3 4F80 CBF1 A812
+
+
+Verification Method:
+
+Save this license text exactly as distributed.
+
+Compute its SHA-3-512 digest and confirm it matches the hash above.
+
+Validate the optional PGP detached signature against the fingerprint.
+
+Any mismatch invalidates the license copy.
