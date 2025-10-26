@@ -1,0 +1,1 @@
+# Trinfinity-A-Tri-Crown-Mathematical-Framework-with-Triple-Stack-Operator-Algebra-and-the-ADEPT-Stack
